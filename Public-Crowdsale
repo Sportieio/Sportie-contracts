@@ -1,6 +1,6 @@
 pragma solidity ^0.4.25;
 
-
+//Contract deployed at 0xab9bd374cc164decd5c701d15ca12597b79e2ebf
 
 interface token {
     function transfer(address receiver, uint amount) external;
